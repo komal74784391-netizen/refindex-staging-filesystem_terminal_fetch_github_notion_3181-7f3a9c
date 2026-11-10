@@ -1,1 +1,62 @@
-{"status":"pending"}
+{
+  "10.1038/nature14539": {
+    "citation_count": 79265,
+    "description": null,
+    "display_name": "Deep learning",
+    "first_registered_at": "2015-05-26T12:10:15Z",
+    "lead_author": "Yann LeCun",
+    "primary_venue": "Nature",
+    "record_url": "https://doi.org/10.1038/nature14539",
+    "reference_count": 103
+  },
+  "10.1093/bioinformatics/btp033": {
+    "citation_count": 10258,
+    "description": "<jats:title>Abstract</jats:title>\n                  <jats:p>Summary: Jalview Version 2 is a system for interactive WYSIWYG editing, analysis and annotation of multiple sequence alignments. Core features include keyboard and mouse-based editing, multiple views and alignment overviews, and linked structure display with Jmol. Jalview 2 is available in two forms: a lightweight Java applet for use in web applications, and a powerful desktop application that employs web services for sequence alignment, secondary structure prediction and the retrieval of alignments, sequences, annotation and structures from public databases and any DAS 1.53 compliant sequence or annotation server.</jats:p>\n                  <jats:p>Availability: The Jalview 2 Desktop application and JalviewLite applet are made freely available under the GPL, and can be downloaded from www.jalview.org</jats:p>\n                  <jats:p>Contact:  g.j.barton@dundee.ac.uk</jats:p>",
+    "display_name": "Jalview Version 2—a multiple sequence alignment editor and analysis workbench",
+    "first_registered_at": "2009-01-16T20:50:48Z",
+    "lead_author": "Andrew M. Waterhouse",
+    "primary_venue": "Bioinformatics",
+    "record_url": "https://doi.org/10.1093/bioinformatics/btp033",
+    "reference_count": 28
+  },
+  "10.1186/s13059-014-0551-7": {
+    "citation_count": 97,
+    "description": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>\n                      The exon junction complex (EJC) is a dynamic multi-protein complex deposited onto nuclear spliced mRNAs upstream of exon-exon junctions. The four core proteins, eIF4A3, Magoh, Y14 and MLN51, are stably bound to mRNAs during their lifecycle, serving as a binding platform for other nuclear and cytoplasmic proteins. Recent evidence has shown that the EJC is involved in the splicing regulation of some specific events in both\n                      <jats:italic>Drosophila</jats:italic>\n                      and mammalian cells.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Here, we show that knockdown of EJC core proteins causes widespread alternative splicing changes in mammalian cells. These splicing changes are specific to EJC core proteins, as knockdown of eIF4A3, Y14 and MLN51 shows similar splicing changes, and are different from knockdown of other splicing factors. The splicing changes can be rescued by a siRNA-resistant form of eIF4A3, indicating an involvement of EJC core proteins in regulating alternative splicing. Finally, we find that the splicing changes are linked with RNA polymerase II elongation rates.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Taken together, this study reveals that the coupling between EJC proteins and splicing is broader than previously suspected, and that a possible link exists between mRNP assembly and splice site recognition.</jats:p>\n                  </jats:sec>",
+    "display_name": "Transcriptome-wide modulation of splicing by the exon junction complex",
+    "first_registered_at": "2014-12-04T11:59:13Z",
+    "lead_author": "Zhen Wang",
+    "primary_venue": "Genome Biology",
+    "record_url": "https://doi.org/10.1186/s13059-014-0551-7",
+    "reference_count": 70
+  },
+  "10.1371/journal.pcbi.1003963": {
+    "citation_count": 710,
+    "description": null,
+    "display_name": "Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition",
+    "first_registered_at": "2014-12-19T03:07:57Z",
+    "lead_author": "Charles F. Cadieu",
+    "primary_venue": "PLoS Computational Biology",
+    "record_url": "https://doi.org/10.1371/journal.pcbi.1003963",
+    "reference_count": 69
+  },
+  "10.21203/rs.3.rs-4840802/v1": {
+    "citation_count": 0,
+    "description": "<title>Abstract</title>\n        <p>Objectives\n This cross-sectional study investigated the construct validity and reliability of a Thai-language version of the Brief Illness Perception Questionnaire (Thai-BIPQ) and its association with health in ankylosing spondylitis (AS) patients, as measured by the ASAS–Health Index (ASAS-HI)\nMethods\n AS patients receiving treatment at Siriraj Hospital were recruited. Reliability was assessed using Cronbach’s alpha coefficient and the intraclass correlation coefficient (ICC). Construct validity was determined by Spearman correlation with the Ankylosing Spondylitis Disease Activity Score (ASDAS), ASAS-HI, and Hospital Anxiety and Depression Scale (HADS). Linear regression was used to analyze the associations between the ASAS-HI (dependent variable) and the Thai-BIPQ (independent variable).\nResults\n We recruited 61 patients, 63.9% male, with a mean age of 47.9 years and a mean disease duration of 16 years. The median Thai-BIPQ score was 2. Cronbach’s alpha was 0.53 but increased to 0.73 after deleting the items “timeline,” “treatment control,” and “coherence.” The ICC was 0.95 with no missing data. The Thai-BIPQ showed moderate correlations with the ASDAS, ASAS-HI, and HADS (Spearman’s rho 0.44–0.56). According to multivariate regression, Thai-BIPQ (<italic>P</italic> = 0.006) and ASDAS ≥ 2.1 (<italic>P</italic> &lt; 0.001) were positively associated with the ASAS-HI.\nConclusions\n The Thai-BIPQ is a valid, reliable, and feasible tool for evaluating illness perception in AS patients. Low disease activity and positive illness perception are associated with better functionality and health. Further research is necessary to explore strategies for modifying illness perceptions in AS patients.</p>",
+    "display_name": "Construct validity and reliability of the Thai version of the Brief Illness Perception Questionnaire and its association with overall functioning and health in patients with ankylosing spondylitis",
+    "first_registered_at": "2024-09-09T15:37:14Z",
+    "lead_author": "Praveena Chiowchanwisawakit",
+    "primary_venue": null,
+    "record_url": "https://doi.org/10.21203/rs.3.rs-4840802/v1",
+    "reference_count": 37
+  },
+  "10.2139/ssrn.5238498": {
+    "citation_count": 0,
+    "description": null,
+    "display_name": "Fit-Slam 2: Efficient 3d Exploration with Fisher Information and Traversability Based Adaptive Roadmap",
+    "first_registered_at": "2025-05-01T19:41:31Z",
+    "lead_author": "Suchetan Saravanan",
+    "primary_venue": null,
+    "record_url": "https://doi.org/10.2139/ssrn.5238498",
+    "reference_count": 54
+  }
+}
